@@ -1,0 +1,1329 @@
+{
+    "Goa":  {
+                "Panaji":  {
+                               "places":  [
+                                              {
+                                                  "name":  "Dona Paula Viewpoint",
+                                                  "type":  "Scenic",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/d/db/Fishing_Boats_anchored_at_Dona_Paula_%2C_Goa.jpg"
+                                              },
+                                              {
+                                                  "name":  "Miramar Beach",
+                                                  "type":  "Beach",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/3/35/Miramar_Beach%2C_Florida.JPG"
+                                              },
+                                              {
+                                                  "name":  "Church of Our Lady of the Immaculate Conception",
+                                                  "type":  "Historic",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c9/Panaji%2C_nostra_signora_dell%27immacolata_concezione%2C_esterno_04.jpg"
+                                              }
+                                          ],
+                               "restaurants":  [
+                                                   {
+                                                       "name":  "Ritz Classic",
+                                                       "type":  "Casual Dining"
+                                                   },
+                                                   {
+                                                       "name":  "Mum\u0027s Kitchen",
+                                                       "type":  "Premium Dining"
+                                                   }
+                                               ],
+                               "food":  [
+                                            {
+                                                "name":  "Goan Fish Curry",
+                                                "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fc/BeachFun.jpg"
+                                            },
+                                            {
+                                                "name":  "Prawn Balchao",
+                                                "image":  "https://upload.wikimedia.org/wikipedia/commons/8/88/Balchao.jpg"
+                                            }
+                                        ]
+                           },
+                "Margao":  {
+                               "places":  [
+                                              {
+                                                  "name":  "Colva Beach",
+                                                  "type":  "Beach",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/0/06/Colv%C3%A1_beach.jpg"
+                                              },
+                                              {
+                                                  "name":  "Margao Municipal Garden",
+                                                  "type":  "Nature",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/5/50/Front_Elevation_of_Margao_Municipal_Council_%28cropped%29.jpg"
+                                              },
+                                              {
+                                                  "name":  "Our Lady of Grace Church",
+                                                  "type":  "Historic",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c9/Panaji%2C_nostra_signora_dell%27immacolata_concezione%2C_esterno_04.jpg"
+                                              }
+                                          ],
+                               "restaurants":  [
+                                                   {
+                                                       "name":  "Longuinhos",
+                                                       "type":  "Casual Dining"
+                                                   },
+                                                   {
+                                                       "name":  "Martin\u0027s Corner",
+                                                       "type":  "Premium Dining"
+                                                   }
+                                               ],
+                               "food":  [
+                                            {
+                                                "name":  "Sorpotel",
+                                                "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d0/Sarapatel_em_Baga_%28Goa%29.jpg"
+                                            },
+                                            {
+                                                "name":  "Bebinca",
+                                                "image":  "https://upload.wikimedia.org/wikipedia/commons/3/31/Bebinca_com_gelado.jpg"
+                                            }
+                                        ]
+                           },
+                "Vasco da Gama":  {
+                                      "places":  [
+                                                     {
+                                                         "name":  "Bogmalo Beach",
+                                                         "type":  "Beach",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/3/36/Bogmalo_Beach_View.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Japanese Garden",
+                                                         "type":  "Scenic",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/8/88/Saihouji-kokedera01.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Naval Aviation Museum",
+                                                         "type":  "Museum",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/1/15/Grumman_YF-14A_Tomcat_157984_Museum_%28NMNA%29.JPG"
+                                                     }
+                                                 ],
+                                      "restaurants":  [
+                                                          {
+                                                              "name":  "Joet\u0027s Bar and Restaurant",
+                                                              "type":  "Casual Dining"
+                                                          },
+                                                          {
+                                                              "name":  "Anantashram",
+                                                              "type":  "Budget Dining"
+                                                          }
+                                                      ],
+                                      "food":  [
+                                                   {
+                                                       "name":  "Chicken Cafreal",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/3/33/Guinea_Fowl_Cafreal.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Goan Sausage",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/c/cc/Prepara%C3%A7%C3%A3o_e_venda_de_chouri%C3%A7o_go%C3%AAs.jpg"
+                                                   }
+                                               ]
+                                  }
+            },
+    "Gujarat":  {
+                    "Ahmedabad":  {
+                                      "places":  [
+                                                     {
+                                                         "name":  "Sabarmati Ashram",
+                                                         "type":  "Historic",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/9/9a/GANDHI_ASHRAM_03.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Kankaria Lake",
+                                                         "type":  "Nature",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/2/2a/Kankaria_Carnival_2_Ahmedabad.JPG"
+                                                     },
+                                                     {
+                                                         "name":  "Adalaj Stepwell",
+                                                         "type":  "Heritage",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e8/Adalaj_ki_Vav_Gujarat_240A1370_72.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Law Garden Night Market",
+                                                         "type":  "Market",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/4/44/Law_Garden%2C_Ahmedabad_-_India_%284050720558%29.jpg"
+                                                     }
+                                                 ],
+                                      "restaurants":  [
+                                                          {
+                                                              "name":  "Gordhan Thal",
+                                                              "type":  "Casual Dining"
+                                                          },
+                                                          {
+                                                              "name":  "Agashiye",
+                                                              "type":  "Premium Dining"
+                                                          },
+                                                          {
+                                                              "name":  "Swati Snacks",
+                                                              "type":  "Budget Dining"
+                                                          }
+                                                      ],
+                                      "food":  [
+                                                   {
+                                                       "name":  "Dhokla",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/6/65/Dhokla_on_Gujrart.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Fafda Jalebi",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7d/Khandvi%2C_Gujarati_snack.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Khandvi",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Gate_of_Khandvi.jpg"
+                                                   }
+                                               ]
+                                  },
+                    "Surat":  {
+                                  "places":  [
+                                                 {
+                                                     "name":  "Dumas Beach",
+                                                     "type":  "Beach",
+                                                     "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8e/Dumasbeach1.jpg"
+                                                 },
+                                                 {
+                                                     "name":  "Science Centre",
+                                                     "type":  "Museum",
+                                                     "image":  "https://upload.wikimedia.org/wikipedia/commons/6/6a/Science-center-and-science.jpg"
+                                                 },
+                                                 {
+                                                     "name":  "Dutch Garden",
+                                                     "type":  "Historic",
+                                                     "image":  "https://upload.wikimedia.org/wikipedia/commons/4/49/Canal%2C_Westbury_Court_Garden_-_geograph.org.uk_-_1416966.jpg"
+                                                 }
+                                             ],
+                                  "restaurants":  [
+                                                      {
+                                                          "name":  "Sasumaa Gujarati Thali",
+                                                          "type":  "Casual Dining"
+                                                      },
+                                                      {
+                                                          "name":  "Sugar N Spice",
+                                                          "type":  "Cafe"
+                                                      }
+                                                  ],
+                                  "food":  [
+                                               {
+                                                   "name":  "Locho",
+                                                   "image":  "https://upload.wikimedia.org/wikipedia/commons/b/b4/Locho_-_Gujarati_Snack_-_Surat.jpg"
+                                               },
+                                               {
+                                                   "name":  "Surti Undhiyu",
+                                                   "image":  "https://upload.wikimedia.org/wikipedia/commons/5/5e/Undhiyu.jpg"
+                                               },
+                                               {
+                                                   "name":  "Ghari",
+                                                   "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f0/Surti_Ghari.jpg"
+                                               }
+                                           ]
+                              },
+                    "Vadodara":  {
+                                     "places":  [
+                                                    {
+                                                        "name":  "Laxmi Vilas Palace",
+                                                        "type":  "Historic",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bd/LakshmiVilas_Palace.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Sayaji Garden",
+                                                        "type":  "Nature",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/8/82/Baroda-Museum.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Baroda Museum",
+                                                        "type":  "Museum",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/5/57/Baroda_Museum1.jpg"
+                                                    }
+                                                ],
+                                     "restaurants":  [
+                                                         {
+                                                             "name":  "Mandap",
+                                                             "type":  "Casual Dining"
+                                                         },
+                                                         {
+                                                             "name":  "22nd Parallel",
+                                                             "type":  "Budget Dining"
+                                                         }
+                                                     ],
+                                     "food":  [
+                                                  {
+                                                      "name":  "Sev Usal",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Sev_2013-12-01_16-57.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Handvo",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/d/de/Handavo3.jpg"
+                                                  }
+                                              ]
+                                 }
+                },
+    "Karnataka":  {
+                      "Bengaluru":  {
+                                        "places":  [
+                                                       {
+                                                           "name":  "Lalbagh Botanical Garden",
+                                                           "type":  "Nature",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Glasshouse_and_fountain_at_lalbagh.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Cubbon Park",
+                                                           "type":  "Nature",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cubbon_Park_W.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Bangalore Palace",
+                                                           "type":  "Historic",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bangalore_Mysore_Maharaja_Palace.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Commercial Street",
+                                                           "type":  "Market",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/5/5b/Commercial_Street%2C_Bangalore_%287870987476%29.jpg"
+                                                       }
+                                                   ],
+                                        "restaurants":  [
+                                                            {
+                                                                "name":  "MTR",
+                                                                "type":  "Budget Dining"
+                                                            },
+                                                            {
+                                                                "name":  "Toit",
+                                                                "type":  "Premium Casual"
+                                                            },
+                                                            {
+                                                                "name":  "Vidyarthi Bhavan",
+                                                                "type":  "Budget Vegetarian"
+                                                            }
+                                                        ],
+                                        "food":  [
+                                                     {
+                                                         "name":  "Masala Dosa",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rameshwaram_Cafe_Dosa.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Bisi Bele Bath",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG"
+                                                     },
+                                                     {
+                                                         "name":  "Filter Coffee",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/5/51/Filter_kaapi.JPG"
+                                                     }
+                                                 ]
+                                    },
+                      "Mysuru":  {
+                                     "places":  [
+                                                    {
+                                                        "name":  "Mysore Palace",
+                                                        "type":  "Historic",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Mysore_Palace_Morning.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Chamundi Hills",
+                                                        "type":  "Scenic",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/5/59/J.C.Nagar_Welcome_Board_to_Chamundi_Hills.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Brindavan Gardens",
+                                                        "type":  "Nature",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Brindavan_Gardens.JPG"
+                                                    }
+                                                ],
+                                     "restaurants":  [
+                                                         {
+                                                             "name":  "Hotel RRR",
+                                                             "type":  "Casual Dining"
+                                                         },
+                                                         {
+                                                             "name":  "Mylari",
+                                                             "type":  "Budget Dining"
+                                                         }
+                                                     ],
+                                     "food":  [
+                                                  {
+                                                      "name":  "Mysore Pak",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mysore_pak.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Mysore Masala Dosa",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rameshwaram_Cafe_Dosa.jpg"
+                                                  }
+                                              ]
+                                 },
+                      "Mangaluru":  {
+                                        "places":  [
+                                                       {
+                                                           "name":  "Panambur Beach",
+                                                           "type":  "Beach",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/2/23/Panambur_Beach_Mangalore.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Kadri Manjunath Temple",
+                                                           "type":  "Temple",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d4/Kadri_temple_entrance_mangalore.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "St. Aloysius Chapel",
+                                                           "type":  "Historic",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/4/46/St._Aloysius_Church_Mangalore.jpg"
+                                                       }
+                                                   ],
+                                        "restaurants":  [
+                                                            {
+                                                                "name":  "Machali",
+                                                                "type":  "Casual Dining"
+                                                            },
+                                                            {
+                                                                "name":  "Ideal Cafe",
+                                                                "type":  "Cafe"
+                                                            }
+                                                        ],
+                                        "food":  [
+                                                     {
+                                                         "name":  "Neer Dosa",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f3/Neer-dosa.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Goli Baje",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/8/84/Bajji_with_coconut_chutney.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Mangalorean Fish Curry",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pan-fried-fish.jpg"
+                                                     }
+                                                 ]
+                                    }
+                  },
+    "Kerala":  {
+                   "Kochi":  {
+                                 "places":  [
+                                                {
+                                                    "name":  "Fort Kochi",
+                                                    "type":  "Heritage",
+                                                    "image":  "https://upload.wikimedia.org/wikipedia/commons/6/6e/Kochi%2C_Fishing_nets_at_sunset%2C_Kerala%2C_India.jpg"
+                                                },
+                                                {
+                                                    "name":  "Chinese Fishing Nets",
+                                                    "type":  "Waterfront",
+                                                    "image":  "https://upload.wikimedia.org/wikipedia/commons/1/19/Chinese_Fishing_Net_Raising_Birds_Sunrise_Ashtamudi_Kollam_Mar22_A7C_01784.jpg"
+                                                },
+                                                {
+                                                    "name":  "Mattancherry Palace",
+                                                    "type":  "Historic",
+                                                    "image":  "https://upload.wikimedia.org/wikipedia/commons/1/12/Mattancherry_Palace_DSC_0899.JPG"
+                                                },
+                                                {
+                                                    "name":  "Jew Town",
+                                                    "type":  "Market",
+                                                    "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c7/Eldridge_Street_Synagogue_%2842773%29.jpg"
+                                                }
+                                            ],
+                                 "restaurants":  [
+                                                     {
+                                                         "name":  "Kashi Art Cafe",
+                                                         "type":  "Cafe"
+                                                     },
+                                                     {
+                                                         "name":  "Paragon",
+                                                         "type":  "Casual Dining"
+                                                     },
+                                                     {
+                                                         "name":  "Malabar Junction",
+                                                         "type":  "Premium Dining"
+                                                     }
+                                                 ],
+                                 "food":  [
+                                              {
+                                                  "name":  "Appam",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Appam_-_%E0%AE%85%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D.jpg"
+                                              },
+                                              {
+                                                  "name":  "Kerala Fish Curry",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Meen_curry_2_%28cropped%29.JPG"
+                                              },
+                                              {
+                                                  "name":  "Puttu",
+                                                  "image":  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Puttu_%28Rice_Flour_steamed_cake%29.jpg"
+                                              }
+                                          ]
+                             },
+                   "Thiruvananthapuram":  {
+                                              "places":  [
+                                                             {
+                                                                 "name":  "Padmanabhaswamy Temple",
+                                                                 "type":  "Temple",
+                                                                 "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sree_Padmanabhaswamy_temple_01.jpg/1920px-Sree_Padmanabhaswamy_temple_01.jpg"
+                                                             },
+                                                             {
+                                                                 "name":  "Kovalam Beach",
+                                                                 "type":  "Beach",
+                                                                 "image":  "https://upload.wikimedia.org/wikipedia/commons/3/3c/Kovalam_beach_trivandrum_kerala.jpg"
+                                                             },
+                                                             {
+                                                                 "name":  "Napier Museum",
+                                                                 "type":  "Museum",
+                                                                 "image":  "https://upload.wikimedia.org/wikipedia/commons/c/ca/Napier_Museum_TVM.jpg"
+                                                             }
+                                                         ],
+                                              "restaurants":  [
+                                                                  {
+                                                                      "name":  "Villa Maya",
+                                                                      "type":  "Premium Dining"
+                                                                  },
+                                                                  {
+                                                                      "name":  "Mothers Veg Plaza",
+                                                                      "type":  "Budget Dining"
+                                                                  }
+                                                              ],
+                                              "food":  [
+                                                           {
+                                                               "name":  "Avial",
+                                                               "image":  "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ayiyal.jpg"
+                                                           },
+                                                           {
+                                                               "name":  "Kerala Sadya",
+                                                               "image":  "https://upload.wikimedia.org/wikipedia/commons/9/95/Sadhya_DSW.jpg"
+                                                           }
+                                                       ]
+                                          },
+                   "Kozhikode":  {
+                                     "places":  [
+                                                    {
+                                                        "name":  "Kappad Beach",
+                                                        "type":  "Beach",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7b/Kappad_Beach.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Mananchira Square",
+                                                        "type":  "Nature",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c0/Mananachira_Pond_Gardens%2C_Kozhikode2.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "SM Street",
+                                                        "type":  "Market",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/5/51/SK_Pottekkat_Bust.JPG"
+                                                    }
+                                                ],
+                                     "restaurants":  [
+                                                         {
+                                                             "name":  "Paragon Calicut",
+                                                             "type":  "Casual Dining"
+                                                         },
+                                                         {
+                                                             "name":  "Bombay Hotel",
+                                                             "type":  "Budget Dining"
+                                                         }
+                                                     ],
+                                     "food":  [
+                                                  {
+                                                      "name":  "Kallummakkaya",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f6/Kannur_Skyline_3.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Kozhikode Biryani",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/6/63/N_Prashant.JPG"
+                                                  }
+                                              ]
+                                 }
+               },
+    "Maharashtra":  {
+                        "Mumbai":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Gateway of India",
+                                                          "type":  "Monument",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Marine Drive",
+                                                          "type":  "Waterfront",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/7/74/Mumbai_03-2016_27_skyline_at_Marine_Drive.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Juhu Beach",
+                                                          "type":  "Beach",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bf/Juhu_beach_%28Arial%29.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Colaba Causeway",
+                                                          "type":  "Market",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/7/76/Singapore-Johor_Causeway.jpg"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Britannia \u0026 Co.",
+                                                               "type":  "Casual Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Bademiya",
+                                                               "type":  "Street Food"
+                                                           },
+                                                           {
+                                                               "name":  "The Table",
+                                                               "type":  "Premium Dining"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Vada Pav",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vada_Pav-Indian_street_food.JPG"
+                                                    },
+                                                    {
+                                                        "name":  "Pav Bhaji",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/4a/Bambayya_Pav_bhaji.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Bhel Puri",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/45/Behael_Puri_%286105489342%29.jpg"
+                                                    }
+                                                ]
+                                   },
+                        "Pune":  {
+                                     "places":  [
+                                                    {
+                                                        "name":  "Shaniwar Wada",
+                                                        "type":  "Historic",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/4d/Front_view_of_Shaniwar_Wada_illuminated.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Aga Khan Palace",
+                                                        "type":  "Heritage",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pune_Palace.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Sinhagad Fort",
+                                                        "type":  "Fort",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f5/Sinhagad.jpg"
+                                                    }
+                                                ],
+                                     "restaurants":  [
+                                                         {
+                                                             "name":  "Vaishali",
+                                                             "type":  "Casual Dining"
+                                                         },
+                                                         {
+                                                             "name":  "Kayani Bakery",
+                                                             "type":  "Cafe"
+                                                         }
+                                                     ],
+                                     "food":  [
+                                                  {
+                                                      "name":  "Misal Pav",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Kolhapuri_Misal_Pav.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Bhakarwadi",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bhakarwadi.JPG"
+                                                  },
+                                                  {
+                                                      "name":  "Mastani",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/1/19/Mastani_28tt13.jpg"
+                                                  }
+                                              ]
+                                 },
+                        "Nagpur":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Deekshabhoomi",
+                                                          "type":  "Spiritual",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c9/Dheekshabhoomi_in_Nagpur.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Ambazari Lake",
+                                                          "type":  "Nature",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c6/AmbazariLake.JPG"
+                                                      },
+                                                      {
+                                                          "name":  "Sitabuldi Fort",
+                                                          "type":  "Historic",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/4/4c/Sitabuldi_fort_gate.JPG"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Barbeque Sadar",
+                                                               "type":  "Casual Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Naivedhyam",
+                                                               "type":  "Budget Dining"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Tarri Poha",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/8/80/Poha.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Saoji Curry",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/3/38/Deekshabhoomi_-_panoramio.jpg"
+                                                    }
+                                                ]
+                                   }
+                    },
+    "Rajasthan":  {
+                      "Jaipur":  {
+                                     "places":  [
+                                                    {
+                                                        "name":  "Hawa Mahal",
+                                                        "type":  "Heritage",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Amber Fort",
+                                                        "type":  "Fort",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fb/20191219_Fort_Amber%2C_Amer%2C_Jaipur_0955_9481.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "City Palace",
+                                                        "type":  "Historic",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a4/Chandra_Mahal%2C_City_Palace%2C_Jaipur%2C_20191218_0951_9043.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Bapu Bazaar",
+                                                        "type":  "Market",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/6/61/Raghunath_Rao.jpg"
+                                                    }
+                                                ],
+                                     "restaurants":  [
+                                                         {
+                                                             "name":  "Rawat Misthan Bhandar",
+                                                             "type":  "Budget Dining"
+                                                         },
+                                                         {
+                                                             "name":  "Tapri Central",
+                                                             "type":  "Cafe"
+                                                         },
+                                                         {
+                                                             "name":  "1135 AD",
+                                                             "type":  "Fine Dining"
+                                                         }
+                                                     ],
+                                     "food":  [
+                                                  {
+                                                      "name":  "Dal Baati Churma",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/0/0b/DalBati.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Ghewar",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Ghevar_with_Malai_Topping.jpg"
+                                                  },
+                                                  {
+                                                      "name":  "Pyaaz Kachori",
+                                                      "image":  "https://upload.wikimedia.org/wikipedia/commons/d/dc/Rajasthani_Pyaz_ki_Kachori.JPG"
+                                                  }
+                                              ]
+                                 },
+                      "Udaipur":  {
+                                      "places":  [
+                                                     {
+                                                         "name":  "City Palace Udaipur",
+                                                         "type":  "Historic",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/6/69/Udaipur_City_Palace.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Lake Pichola",
+                                                         "type":  "Waterfront",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d2/Udaipur_Lake_India.JPG"
+                                                     },
+                                                     {
+                                                         "name":  "Saheliyon Ki Bari",
+                                                         "type":  "Nature",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/8/84/Saheliyon-ki-Bari_Fountain.JPG"
+                                                     }
+                                                 ],
+                                      "restaurants":  [
+                                                          {
+                                                              "name":  "Ambrai",
+                                                              "type":  "Premium Dining"
+                                                          },
+                                                          {
+                                                              "name":  "Jheel\u0027s Ginger Coffee Bar",
+                                                              "type":  "Cafe"
+                                                          }
+                                                      ],
+                                      "food":  [
+                                                   {
+                                                       "name":  "Gatte Ki Sabzi",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Mirchi Bada",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mirchi_Bada_from_Jodhpur_1.jpg"
+                                                   }
+                                               ]
+                                  },
+                      "Jodhpur":  {
+                                      "places":  [
+                                                     {
+                                                         "name":  "Mehrangarh Fort",
+                                                         "type":  "Fort",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/9/99/Mehrangarh_Fort_sanhita.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Jaswant Thada",
+                                                         "type":  "Historic",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Jaswant_Thada_Dawn.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Clock Tower Market",
+                                                         "type":  "Market",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/b/b8/Jodhpur_Clock_Tower.jpg"
+                                                     }
+                                                 ],
+                                      "restaurants":  [
+                                                          {
+                                                              "name":  "Gypsy Restaurant",
+                                                              "type":  "Casual Dining"
+                                                          },
+                                                          {
+                                                              "name":  "Indique",
+                                                              "type":  "Premium Dining"
+                                                          }
+                                                      ],
+                                      "food":  [
+                                                   {
+                                                       "name":  "Makhaniya Lassi",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/f/f1/Salt_lassi.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Mirchi Vada",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a9/Mirchi_Bada_from_Jodhpur_1.jpg"
+                                                   },
+                                                   {
+                                                       "name":  "Pyaaz Ki Kachori",
+                                                       "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8f/Rajasthani_Raj_Kachori.jpg"
+                                                   }
+                                               ]
+                                  }
+                  },
+    "Tamil Nadu":  {
+                       "Chennai":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Marina Beach",
+                                                          "type":  "Beach",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Chennai_-_bird%27s-eye_view.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Kapaleeshwarar Temple",
+                                                          "type":  "Temple",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/9/99/Kapaleeswarar1.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Fort St. George",
+                                                          "type":  "Historic",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/b/b0/Fort_St._George%2C_Chennai_2.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Government Museum",
+                                                          "type":  "Museum",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/6/66/Madras_museum_theatre_in_October_2007.jpg"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Murugan Idli Shop",
+                                                               "type":  "Budget Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Writers Cafe",
+                                                               "type":  "Cafe"
+                                                           },
+                                                           {
+                                                               "name":  "Dakshin",
+                                                               "type":  "Fine Dining"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Idli",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/1/11/Idli_Sambar.JPG"
+                                                    },
+                                                    {
+                                                        "name":  "Dosa",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Filter Coffee",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/5/51/Filter_kaapi.JPG"
+                                                    }
+                                                ]
+                                   },
+                       "Madurai":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Meenakshi Temple",
+                                                          "type":  "Temple",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e9/An_aerial_view_of_Madurai_city_from_atop_of_Meenakshi_Amman_temple.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Thirumalai Nayakkar Mahal",
+                                                          "type":  "Historic",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/8/87/Madurai_Nayak_Palace_Collage.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Gandhi Memorial Museum",
+                                                          "type":  "Museum",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/3/31/Entrance_of_National_Gandhi_Museum%2C_Raj_Ghat%2C_New_Delhi.jpg"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Murugan Idli Kadai",
+                                                               "type":  "Budget Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Kumar Mess",
+                                                               "type":  "Casual Dining"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Jigarthanda",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/4/46/Jigarthanda.JPG"
+                                                    },
+                                                    {
+                                                        "name":  "Kari Dosa",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg"
+                                                    }
+                                                ]
+                                   },
+                       "Coimbatore":  {
+                                          "places":  [
+                                                         {
+                                                             "name":  "Marudamalai Temple",
+                                                             "type":  "Temple",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/1/14/IN-TN.svg"
+                                                         },
+                                                         {
+                                                             "name":  "VOC Park and Zoo",
+                                                             "type":  "Nature",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/2/21/VOCFountain.jpg"
+                                                         },
+                                                         {
+                                                             "name":  "Brookefields Mall",
+                                                             "type":  "Lifestyle",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/9/93/Brook_Fields_Mall_%40_Coimbatore.jpg"
+                                                         }
+                                                     ],
+                                          "restaurants":  [
+                                                              {
+                                                                  "name":  "Annapoorna",
+                                                                  "type":  "Budget Dining"
+                                                              },
+                                                              {
+                                                                  "name":  "Haribhavanam",
+                                                                  "type":  "Casual Dining"
+                                                              }
+                                                          ],
+                                          "food":  [
+                                                       {
+                                                           "name":  "Kongunadu Chicken",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d1/Kongu_Nadu_district_map.svg"
+                                                       },
+                                                       {
+                                                           "name":  "Arisi Paruppu Sadam",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7e/CHIL_SEZ.jpg"
+                                                       }
+                                                   ]
+                                      }
+                   },
+    "Telangana":  {
+                      "Hyderabad":  {
+                                        "places":  [
+                                                       {
+                                                           "name":  "Charminar",
+                                                           "type":  "Monument",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/7/71/Charminar_Hyderabad_1.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Golconda Fort",
+                                                           "type":  "Fort",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/5/56/Golconda_Fort_005.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Salar Jung Museum",
+                                                           "type":  "Museum",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/a/ac/Salar_Jung_Museum%2C_Hyderabad%2C_India.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Laad Bazaar",
+                                                           "type":  "Market",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/8/86/Laad_Bazaar.jpg"
+                                                       }
+                                                   ],
+                                        "restaurants":  [
+                                                            {
+                                                                "name":  "Cafe Niloufer",
+                                                                "type":  "Cafe"
+                                                            },
+                                                            {
+                                                                "name":  "Bawarchi",
+                                                                "type":  "Casual Dining"
+                                                            },
+                                                            {
+                                                                "name":  "Adaa",
+                                                                "type":  "Fine Dining"
+                                                            }
+                                                        ],
+                                        "food":  [
+                                                     {
+                                                         "name":  "Hyderabadi Biryani",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7c/Hyderabadi_Chicken_Biryani.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Haleem",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/0/0f/Pakistani_Haleem_served_with_garnish.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Irani Chai",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/0/00/Yazdani_Bakery_in_Fort.jpg"
+                                                     }
+                                                 ]
+                                    },
+                      "Warangal":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Warangal Fort",
+                                                          "type":  "Historic",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c3/Shiv_Linga_at_Warangal_Fort_Complex.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Thousand Pillar Temple",
+                                                          "type":  "Temple",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/3/37/1000pillar_temple_warangal.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Bhadrakali Lake",
+                                                          "type":  "Nature",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/1/11/Bhadrakali_Lake%2C_Warangal.JPG"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Hotel Ashoka",
+                                                               "type":  "Casual Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Blue Fox",
+                                                               "type":  "Cafe"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Sakinalu",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/7/77/Sakinalu%2C_dark_and_light-2159.jpg"
+                                                    },
+                                                    {
+                                                        "name":  "Sarva Pindi",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Sarvapindi_%2C_mango_pickle_-_aavakai.jpg"
+                                                    }
+                                                ]
+                                   },
+                      "Nizamabad":  {
+                                        "places":  [
+                                                       {
+                                                           "name":  "Nizamabad Fort",
+                                                           "type":  "Historic",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/3/34/Fort_Entrance%2CNizamabad.jpeg"
+                                                       },
+                                                       {
+                                                           "name":  "Alisagar Reservoir",
+                                                           "type":  "Nature",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/4/46/Pong_Dam%2C_Himachal_Pradesh.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Dichpally Ramalayam",
+                                                           "type":  "Temple",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/c/c1/Dichpally_ramalayam_nizamabad_TS.jpg"
+                                                       }
+                                                   ],
+                                        "restaurants":  [
+                                                            {
+                                                                "name":  "The Grand Trunk",
+                                                                "type":  "Casual Dining"
+                                                            },
+                                                            {
+                                                                "name":  "Tiffins Corner",
+                                                                "type":  "Budget Dining"
+                                                            }
+                                                        ],
+                                        "food":  [
+                                                     {
+                                                         "name":  "Jonna Rotte",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e5/Another_Vegetarian_Meal.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Chegodilu",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/7/71/Kodubale_~_Deep_fried_rice_and_roasted_gram_savoury_rings_from_South_India.jpg"
+                                                     }
+                                                 ]
+                                    }
+                  },
+    "Uttar Pradesh":  {
+                          "Varanasi":  {
+                                           "places":  [
+                                                          {
+                                                              "name":  "Kashi Vishwanath Temple",
+                                                              "type":  "Temple",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Kashi_Vishwanath.jpg"
+                                                          },
+                                                          {
+                                                              "name":  "Dashashwamedh Ghat",
+                                                              "type":  "Spiritual",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/a/ad/Dasaswamedh_ghat-varanasi_india-andres_larin.jpg"
+                                                          },
+                                                          {
+                                                              "name":  "Sarnath",
+                                                              "type":  "Heritage",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/d/d9/Ancient_Buddhist_monasteries_near_Dhamekh_Stupa_Monument_Site%2C_Sarnath.jpg"
+                                                          },
+                                                          {
+                                                              "name":  "Godowlia Market",
+                                                              "type":  "Market",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/0/0e/Varanasi%2C_India%2C_Ghats%2C_Cremation_ceremony_in_progress.jpg"
+                                                          }
+                                                      ],
+                                           "restaurants":  [
+                                                               {
+                                                                   "name":  "Kashi Chat Bhandar",
+                                                                   "type":  "Street Food"
+                                                               },
+                                                               {
+                                                                   "name":  "Brown Bread Bakery",
+                                                                   "type":  "Cafe"
+                                                               },
+                                                               {
+                                                                   "name":  "Baati Chokha",
+                                                                   "type":  "Casual Dining"
+                                                               }
+                                                           ],
+                                           "food":  [
+                                                        {
+                                                            "name":  "Banarasi Paan",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8b/Betel_1.jpg"
+                                                        },
+                                                        {
+                                                            "name":  "Tamatar Chaat",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dahi_puri%2C_Doi_phuchka.jpg"
+                                                        },
+                                                        {
+                                                            "name":  "Malaiyyo",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/5/52/Malaiyo_Pehalwaan_lassi_in_front_of_ravidas_gate_LANKA._Varanasi_Uttar_Pradesh.jpg"
+                                                        }
+                                                    ]
+                                       },
+                          "Lucknow":  {
+                                          "places":  [
+                                                         {
+                                                             "name":  "Bara Imambara",
+                                                             "type":  "Historic",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7a/Asifportrait2_-_Asuf_ud_Daula.jpg"
+                                                         },
+                                                         {
+                                                             "name":  "Rumi Darwaza",
+                                                             "type":  "Monument",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a9/Rumi_Darwaza_-_DSC2797-01.jpg"
+                                                         },
+                                                         {
+                                                             "name":  "Hazratganj",
+                                                             "type":  "Market",
+                                                             "image":  "https://upload.wikimedia.org/wikipedia/commons/1/1e/Hazratganj_Lucknow.jpg"
+                                                         }
+                                                     ],
+                                          "restaurants":  [
+                                                              {
+                                                                  "name":  "Tunday Kababi",
+                                                                  "type":  "Casual Dining"
+                                                              },
+                                                              {
+                                                                  "name":  "Royal Cafe",
+                                                                  "type":  "Cafe"
+                                                              }
+                                                          ],
+                                          "food":  [
+                                                       {
+                                                           "name":  "Galouti Kebab",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/8/88/Tunday_Kebabs.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Basket Chaat",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dahi_puri%2C_Doi_phuchka.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Nihari",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/4/4b/Nalli_Nihari_India.jpg"
+                                                       }
+                                                   ]
+                                      },
+                          "Agra":  {
+                                       "places":  [
+                                                      {
+                                                          "name":  "Taj Mahal",
+                                                          "type":  "Heritage",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg"
+                                                      },
+                                                      {
+                                                          "name":  "Agra Fort",
+                                                          "type":  "Fort",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7e/Agra_03-2016_10_Agra_Fort.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Mehtab Bagh",
+                                                          "type":  "Nature",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8d/Mehtab_Bagh_facing_Taj_Mahal.JPG"
+                                                      }
+                                                  ],
+                                       "restaurants":  [
+                                                           {
+                                                               "name":  "Pinch of Spice",
+                                                               "type":  "Casual Dining"
+                                                           },
+                                                           {
+                                                               "name":  "Dasaprakash",
+                                                               "type":  "Budget Dining"
+                                                           }
+                                                       ],
+                                       "food":  [
+                                                    {
+                                                        "name":  "Petha",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/b/bc/Petha_kesari.JPG"
+                                                    },
+                                                    {
+                                                        "name":  "Bedai with Aloo Sabzi",
+                                                        "image":  "https://upload.wikimedia.org/wikipedia/commons/6/68/Taj_Mahal%2C_Agra%2C_India.jpg"
+                                                    }
+                                                ]
+                                   }
+                      },
+    "West Bengal":  {
+                        "Kolkata":  {
+                                        "places":  [
+                                                       {
+                                                           "name":  "Victoria Memorial",
+                                                           "type":  "Heritage",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/7/72/Victoria_Memorial_situated_in_Kolkata.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Howrah Bridge",
+                                                           "type":  "Landmark",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/c/cb/Howrah_bridge_at_night.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Indian Museum",
+                                                           "type":  "Museum",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/8/8c/Indian_Museum%2C_Courtyard%2C_Kolkata%2C_India.jpg"
+                                                       },
+                                                       {
+                                                           "name":  "Park Street",
+                                                           "type":  "Lifestyle",
+                                                           "image":  "https://upload.wikimedia.org/wikipedia/commons/8/89/Park_Street_Church_-_Boston%2C_MA_-_DSC02622.JPG"
+                                                       }
+                                                   ],
+                                        "restaurants":  [
+                                                            {
+                                                                "name":  "Arsalan",
+                                                                "type":  "Budget Dining"
+                                                            },
+                                                            {
+                                                                "name":  "Flurys",
+                                                                "type":  "Cafe"
+                                                            },
+                                                            {
+                                                                "name":  "Oh! Calcutta",
+                                                                "type":  "Fine Dining"
+                                                            }
+                                                        ],
+                                        "food":  [
+                                                     {
+                                                         "name":  "Kathi Roll",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/f/fc/Kolkata_Rolls.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Macher Jhol",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/5/53/Alu_ar_dhonepata_diye_Boyal_machher_jhol.jpg"
+                                                     },
+                                                     {
+                                                         "name":  "Mishti Doi",
+                                                         "image":  "https://upload.wikimedia.org/wikipedia/commons/3/34/Mishti_Doi.jpg"
+                                                     }
+                                                 ]
+                                    },
+                        "Darjeeling":  {
+                                           "places":  [
+                                                          {
+                                                              "name":  "Tiger Hill",
+                                                              "type":  "Scenic",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/6/6d/Kargil_war.jpg"
+                                                          },
+                                                          {
+                                                              "name":  "Batasia Loop",
+                                                              "type":  "Heritage",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/1/11/Batasia_Loop_War_Memorial_with_Kanchanjunga.jpg"
+                                                          },
+                                                          {
+                                                              "name":  "Darjeeling Himalayan Railway",
+                                                              "type":  "Historic",
+                                                              "image":  "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ministry_of_Railways_India.svg/1280px-Ministry_of_Railways_India.svg.png"
+                                                          }
+                                                      ],
+                                           "restaurants":  [
+                                                               {
+                                                                   "name":  "Keventers",
+                                                                   "type":  "Cafe"
+                                                               },
+                                                               {
+                                                                   "name":  "Glenary\u0027s",
+                                                                   "type":  "Casual Dining"
+                                                               }
+                                                           ],
+                                           "food":  [
+                                                        {
+                                                            "name":  "Momos",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Momo_nepal.jpg"
+                                                        },
+                                                        {
+                                                            "name":  "Thukpa",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/7/7f/Thukpa%2C_Tibetan_noodle_in_Osaka%2C_Japan.jpg"
+                                                        }
+                                                    ]
+                                       },
+                        "Siliguri":  {
+                                         "places":  [
+                                                        {
+                                                            "name":  "Hong Kong Market",
+                                                            "type":  "Market",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Siliguri_view_3.jpg"
+                                                        },
+                                                        {
+                                                            "name":  "Bengal Safari",
+                                                            "type":  "Wildlife",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/b/b7/San_Diego_Zoo_Safari_Park_roadside_sign_2014.jpg"
+                                                        },
+                                                        {
+                                                            "name":  "ISKCON Temple Siliguri",
+                                                            "type":  "Temple",
+                                                            "image":  "https://upload.wikimedia.org/wikipedia/commons/e/e0/Siliguri_view_3.jpg"
+                                                        }
+                                                    ],
+                                         "restaurants":  [
+                                                             {
+                                                                 "name":  "The Tribe by Hi Spirits",
+                                                                 "type":  "Casual Dining"
+                                                             },
+                                                             {
+                                                                 "name":  "Netaji Cabin",
+                                                                 "type":  "Budget Dining"
+                                                             }
+                                                         ],
+                                         "food":  [
+                                                      {
+                                                          "name":  "Churpee",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/1/1a/Chhurpi_Nep.jpg"
+                                                      },
+                                                      {
+                                                          "name":  "Momos",
+                                                          "image":  "https://upload.wikimedia.org/wikipedia/commons/a/a1/Momo_nepal.jpg"
+                                                      }
+                                                  ]
+                                     }
+                    }
+}

@@ -1,0 +1,7 @@
+[
+  {
+    "name": "kunal",
+    "email": "abcd@gmail.com",
+    "password": "scrypt:32768:8:1$ChkulkAffhZaYOyq$ce6824ecada6959abf82ed20082703a4314fcd30260ea141c8cf625701dafba8793545eadb6345d5d0be1523a67d9c52b2d20afb7ba476545b9e88ff76a767b6"
+  }
+]

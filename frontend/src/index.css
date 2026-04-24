@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  position: relative;
+  font-family: "Manrope", sans-serif;
+  background: url("/background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  color: #f8fafc;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: -1;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.glass-card {
+  background: rgba(9, 18, 35, 0.62);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.35);
+}
+
+.input-field {
+  width: 100%;
+  border-radius: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.04);
+  padding: 0.95rem 1rem;
+  color: #f8fafc;
+  outline: none;
+  transition: 0.2s ease;
+}
+
+.input-field:focus {
+  border-color: rgba(79, 209, 255, 0.85);
+  box-shadow: 0 0 0 4px rgba(79, 209, 255, 0.12);
+}
+
+.primary-button {
+  border: none;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #4fd1ff 0%, #6ef7c8 100%);
+  color: #04111f;
+  font-weight: 800;
+  padding: 0.9rem 1.4rem;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.primary-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 30px rgba(79, 209, 255, 0.2);
+}
+
+.secondary-button {
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: #f8fafc;
+  font-weight: 700;
+  padding: 0.9rem 1.4rem;
+  cursor: pointer;
+}
+
+.page-shell {
+  min-height: 100vh;
+  background-image: radial-gradient(circle at 20% 10%, rgba(79, 209, 255, 0.18), transparent 22%), radial-gradient(circle at 80% 10%, rgba(255, 122, 162, 0.18), transparent 24%), linear-gradient(135deg, rgba(4, 8, 21, 0.82) 0%, rgba(8, 17, 32, 0.76) 40%, rgba(13, 29, 49, 0.72) 100%);
+}
+
+.soft-dot {
+  position: absolute;
+  border-radius: 999px;
+  filter: blur(32px);
+  opacity: 0.45;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
