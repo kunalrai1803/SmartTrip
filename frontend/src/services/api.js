@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || "http://localhost:5000",
+  baseURL: "https://smarttrip-z2fx.onrender.com",
 });
 
 export const signupUser = (payload) => api.post("/signup", payload);
@@ -14,4 +14,3 @@ export const getPlaces = (state, city) =>
 export const generatePlan = (payload) => api.post("/generate_plan", payload);
 
 export default api;
-
