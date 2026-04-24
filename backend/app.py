@@ -12,8 +12,11 @@ from services.storage import load_cities, load_users, save_users
 load_dotenv()
 
 app = Flask(__name__)
-from flask_cors import CORS
-CORS(app)
+CORS(
+    app,
+    resources={r"/*": {"origins": [os.getenv("FRONTEND_URL", "http://localhost:5173"), "http://localhost:5173"]}},
+)
+
 
 def find_matching_key(options, target_value):
     normalized_target = target_value.strip().lower()
